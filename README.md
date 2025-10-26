@@ -1,1 +1,1 @@
-# Saroop-Restaurant
+Our restaurant website is a modern, responsive platform designed to showcase the restaurant’s menu, services, and special offers. It features a clean layout, intuitive navigation, and interactive elements built with HTML, CSS, and JavaScript, providing visitors with an engaging and seamless browsing experience.
